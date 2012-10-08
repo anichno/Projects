@@ -1,3 +1,5 @@
+//Uses the TAOS 3301-LF
+
 const int dataIn = 4;
 const int dataOut = 5;
 const int taosClock = 6;
