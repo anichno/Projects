@@ -1,6 +1,9 @@
 flashcards/
 .dropbox
 studyguide.txt
+*.apk
+*.jpg
+*.png
 
 #################
 ## Eclipse
