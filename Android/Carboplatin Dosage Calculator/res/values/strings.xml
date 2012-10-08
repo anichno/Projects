@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CockcroftandGaultCalcActivity!</string>
+    <string name="app_name">Carboplatin Dosage Calc</string>
+    
+    <string name="select_gender">Select a gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    
+    <string name="select_height">Select a height</string>
+    <string-array name="height_array">
+        <item>in</item>
+        <item>cm</item>
+    </string-array>
+    
+    <string name="select_weight">Select a weight</string>
+    <string-array name="weight_array">
+        <item>lbs</item>
+        <item>kg</item>
+    </string-array>
+
+</resources>
